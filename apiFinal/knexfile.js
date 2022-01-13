@@ -5,7 +5,7 @@ module.exports = {
     connection: {
       database: 'tcsfinal',
       user:     'postgres',
-      password: 'Carol2143'
+      password: '*******'
     },
     pool: {
       min: 2,
